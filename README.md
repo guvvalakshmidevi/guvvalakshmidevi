@@ -1,431 +1,241 @@
-<!DOCTYPE html>
-<html lang="en">
+# 👋 Hi, I'm Lakshmidevi Guvva
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+## 🚀 Aspiring Java Full Stack Developer | CSE Student
 
-    <title>Lakshmidevi Guvva | Java Full Stack Developer</title>
+Passionate Computer Science Engineering student focused on building modern, responsive, and user-friendly web applications.
+I enjoy learning new technologies and improving my programming skills every day.
 
-    <link rel="stylesheet" href="style.css">
+---
 
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+## 🌟 Quick Highlights
 
-    <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
-</head>
+- 🎓 B.Tech CSE Student  
+- 💻 Java Full Stack Learner  
+- 🌐 Web Development Enthusiast  
+- 🔥 Passionate about coding & projects  
+- 🎯 Goal: Software Engineer  
 
-<body>
+---<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00D9FF&size=28&center=true&vCenter=true&width=600&height=80&lines=Lakshmidevi+Guvva;Aspiring+Java+Full+Stack+Developer;CSE+Student;Passionate+About+Coding" />
+</p>
 
-<header>
+---
 
-    <a href="#" class="logo">
-        Lakshmidevi
-    </a>
+## 💙 Welcome to my GitHub Profile
 
-    <nav>
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Navy%20Blue-0A1F44?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Java%20Full%20Stack-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Learning-2563EB?style=for-the-badge" />
+</p>
 
-        <a href="#home">Home</a>
-        <a href="#about">About</a>
-        <a href="#skills">Skills</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
+---
 
-    </nav>
+## ✨ About Me
 
-</header>
+💡 I am a Computer Science Engineering student  
+💻 Currently learning Java Full Stack Development  
+🌐 Interested in Web Development & Backend Systems  
+🔥 Focused on building real-world projects  
+🚀 Always improving my coding skills  
 
-<section class="home" id="home">
+------
 
-<div class="home-content">
+## 🛠️ Technical Skills
 
-<h3>Hello, I'm</h3>
-
-<h1>LAKSHMIDEVI GUVVA</h1>
-
-<h2>
-Aspiring
-<span>Java Full Stack Developer</span>
-</h2>
-
+### 💻 Programming Languages
 <p>
+  <img src="https://img.shields.io/badge/Java-0A1F44?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-00D9FF?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-Passionate Computer Science Engineering student focused on building modern, responsive, and user-friendly web applications. I enjoy learning new technologies and continuously improving my development skills.
+---
+
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-0A1F44?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/SQL-00D9FF?style=for-the-badge&logo=mysql&logoColor=black"/>
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-0A1F44?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-2563EB?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+---
+
+## 📂 Projects
+
+### 🚀 Portfolio Website
+A modern responsive personal portfolio website built using HTML, CSS, and JavaScript.
+
+- 💙 Navy Blue Theme Design  
+- ✨ Smooth Animations  
+- 📱 Fully Responsive Layout  
+
+🔗 GitHub: https://github.com/guvvalakshmidevi  
+
+---
+
+### 🎮 Java Learning Adventure Game
+An interactive web-based learning game where users explore concepts and answer quizzes.
+
+- 🧠 Java Concepts Learning  
+- 🎯 Quiz-Based Progress  
+- 🎥 Video Learning Integration  
+
+🔗 GitHub: https://github.com/guvvalakshmidevi  
+
+---
+
+### 🧑‍🎓 Student Management System
+Java-based application to manage student records with CRUD operations.
+
+- ➕ Add / Update / Delete Students  
+- 🗄️ Database Integration  
+- ⚙️ Console-based Application  
+
+🔗 GitHub: https://github.com/guvvalakshmidevi  
+
+---
+
+## 📌 Project Style Note
+
+All projects are focused on:
+- Real-world problem solving
+- ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guvvalakshmidevi&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvvalakshmidevi&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=guvvalakshmidevi&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- ⭐ Consistent Learning in Java & Web Development  
+- ⭐ Built Multiple Mini Projects  
+- ⭐ Improving Problem Solving Skills Daily  
+- ⭐ Focused on Full Stack Career Growth  
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guvvalakshmidevi&theme=tokyo-night" />
+</p>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+🔗 GitHub: https://github.com/guvvalakshmidevi  
+💼 LinkedIn: https://www.linkedin.com/in/lakshmi-devi-guvva-476288342  
+📧 Email: guvvalakshmidevi988@gmail.com  
 
 </p>
 
-<div class="social-icons">
+---
 
-<a href="https://github.com/guvvalakshmidevi" target="_blank">
-<i class="fab fa-github"></i>
-</a>
+## 📞 Contact
 
-<a href="https://www.linkedin.com/in/lakshmi-devi-guvva-476288342" target="_blank">
-<i class="fab fa-linkedin"></i>
-</a>
+<p align="center">
 
 <a href="mailto:guvvalakshmidevi988@gmail.com">
-<i class="fas fa-envelope"></i>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
-<a href="#contact" class="btn">
-Contact Me
+<a href="https://github.com/guvvalakshmidevi">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0A1F44?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+<a href="https://www.linkedin.com/in/lakshmi-devi-guvva-476288342">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<div class="home-image">
+</p>
 
-<div class="glow-circle"></div>
+---
 
-<div class="profile-card">
+## 💙 Final Note
 
-<i class="fas fa-laptop-code"></i>
+> "Keep learning, keep building, and never stop improving."
 
-</div>
+---
 
-</div>
+<p align="center">
+⭐ Thank you for visiting my profile ⭐  
+🚀 Built with passion for Full Stack Development
+</p>
 
-</section>
+------
 
-<script src="script.js"></script>
+## 🚀 Learning Roadmap
 
-</body>
-</html>
-<!-- ================= ABOUT SECTION ================= -->
+- ✔ Core Java  
+- ✔ HTML, CSS, JavaScript  
+- 🔄 Advanced Java (Servlets, JSP)  
+- 🔄 Spring Boot (Upcoming)  
+- 🔄 Data Structures & Algorithms  
+- 🔄 React.js (Future Goal)  
 
-<section class="about" id="about">
+---
 
-    <div class="section-title">
-        <h2>About Me</h2>
-        <span>Who I Am</span>
-    </div>
+## 🎯 Career Goals
 
-    <div class="about-container">
+- Become a Full Stack Java Developer  
+- Build scalable real-world applications  
+- Contribute to open-source projects  
+- Crack top software company interviews  
 
-        <div class="about-card">
+---
 
-            <h3>Aspiring Java Full Stack Developer</h3>
+## 💡 Developer Mindset
 
-            <p>
-                I'm <strong>Lakshmidevi Guvva</strong>, a Computer Science Engineering student with a strong interest in
-                Java Full Stack Development. I enjoy building modern web applications, solving programming problems,
-                and continuously learning new technologies to become an industry-ready software developer.
-            </p>
+> "Code is not just written, it is crafted with logic, patience, and creativity."
 
-            <div class="about-buttons">
+---
 
-                <a href="https://github.com/guvvalakshmidevi" target="_blank" class="btn">
-                    <i class="fab fa-github"></i> GitHub
-                </a>
+## 🧠 Fun Fact
 
-                <a href="https://www.linkedin.com/in/lakshmi-de
-                <!-- ================= SKILLS SECTION ================= -->
+- I love turning ideas into real working applications 🚀  
+- I enjoy learning new technologies daily 💻  
+- I believe consistency beats talent 🔥  
 
-<section class="skills" id="skills">
+---
 
-    <div class="section-title">
-        <h2>Technical Skills</h2>
-        <span>My Expertise</span>
-    </div>
+## ⭐ Support
 
-    <div class="skills-container">
+If you like my profile, feel free to ⭐ my repositories!
 
-        <div class="skill-card">
-            <i class="fab fa-java"></i>
-            <h3>Java</h3>
-            <p>Core Java, OOP, Collections, Exception Handling</p>
-        </div>
+---
 
-        <div class="skill-card">
-            <i class="fab fa-html5"></i>
-            <h3>HTML5</h3>
-            <p>Semantic HTML and Responsive Layouts</p>
-        </div>
+<p align="center">
+💙 Designed with passion | Built for growth | Driven by consistency 🚀
+</p>
 
-        <div class="skill-card">
-            <i class="fab fa-css3-alt"></i>
-            <h3>CSS3</h3>
-            <p>Flex</p>
-            <!-- ================= PROJECTS SECTION ================= -->
-
-<section class="projects" id="projects">
-
-    <div class="section-title">
-        <h2>Featured Projects</h2>
-        <span>My Recent Work</span>
-    </div>
-
-    <div class="projects-container">
-
-        <!-- Project 1 -->
-        <div class="project-card">
-            <div class="project-content">
-                <h3>Professional Portfolio Website</h3>
-
-                <p>
-                    A modern responsive portfolio website built using
-                    HTML, CSS and JavaScript with smooth animations,
-                    glassmorphism UI and mobile-friendly design.
-                </p>
-
-                <div class="tech-stack">
-                    <span>HTML</span>
-                    <span>CSS</span>
-                    <span>JavaScript</span>
-                </div>
-
-                <div class="project-buttons">
-                    <a href="https://github.com/guvvalakshmidevi" target="_blank" class="btn">
-                        <i class="fab fa-github"></i> GitHub
-                    </
-                    <!-- ================= EDUCATION & ACHIEVEMENTS ================= -->
-
-<section class="education" id="education">
-
-    <div class="section-title">
-        <h2>Education</h2>
-        <span>My Academic Journey</span>
-    </div>
-
-    <div class="timeline">
-
-        <div class="timeline-card">
-            <h3>B.Tech - Computer Science Engineering</h3>
-            <h4>2024 - Present</h4>
-            <p>
-                Currently pursuing Bachelor of Technology in Computer
-                Science Engineering with a strong focus on Java Full
-                Stack Development, Data Structures, and Web Technologies.
-            </p>
-        </div>
-
-        <div class="timeline
-        <!-- ================= CONTACT SECTION ================= -->
-
-<section class="contact" id="contact">
-
-    <div class="section-title">
-        <h2>Contact Me</h2>
-        <span>Let's Connect</span>
-    </div>
-
-    <div class="contact-container">
-
-        <div class="contact-card">
-
-            <i class="fas fa-envelope"></i>
-
-            <h3>Email</h3>
-
-            <a href="mailto:guvvalakshmidevi988@gmail.com">
-                guvvalakshmidevi988@gmail.com
-            </a>
-
-        </div>
-
-        <div class="contact-card">
-
-            <i class="fab fa-github"></i>
-
-            <h3>GitHub</h3>
-
-            <a href="https://github.com/guvvalakshmidevi" target="_blank">
-                github.com/guvvalakshmidevi
-            </a>
-
-        </div>
-
-        <div class="contact-card">
-
-            <i class="fab fa-linkedin"></i>
-
-            <h3>LinkedIn</h3>
-
-            <a href="https://www.linkedin.com/in/lakshmi-devi-guvva-476288342"
-               target="_blank">
-                Connect with me
-            </a>
-
-        </div>
-
-    </div>
-
-</section>
-
-<!-- ================= FOOTER ================= -->
-
-<footer>
-
-    <h2>LAKSHMIDEVI GUVVA</h2>
-
-    <p>
-        Aspiring Java Full Stack Developer passionate about building
-        modern, responsive, and user-friendly web applications.
-    </p>
-
-    <div class="footer-icons">
-
-        <a href="https://github.com/guvvalakshidevi
-        /* ===========================
-   GOOGLE FONT & RESET
-=========================== */
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
-
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    scroll-behavior:smooth;
-    font-family:'Poppins',sans-serif;
-}
-
-:root{
-
-    --bg:#071426;
-    --bg2:#0b1f39;
-    --card:rgba(255,255,255,.08);
-
-    --primary:#00d9ff;
-    --secondary:#3b82f6;
-
-    --white:#ffffff;
-    --text:#c9d6e3;
-    --border:rgba(255,255,255,.12);
-
-    --shadow:0 10px 35px rgba(0,217,255,.18);
-
-}
-
-body{
-
-    background:linear-gradient(135deg,#06111f,#0a1d35,#10284d);
-    color:var(--white);
-    overflow-x:hidden;
-
-}
-
-/* ===========================
-   ANIMATED BACKGROUND
-=========================== */
-
-body::before{
-
-    content:"";
-    position:fixed;
-    inset:0;
-
-    background:
-    radial-gradient(circle at 20% 20%,rgba(0,217,255,.12),transparent 30%),
-    radial-gradient(circle at 80% 30%,rgba(59,130,246,.12),transparent 30%),
-    radial-gradient(circle at 50% 90%,rgba(0,217,255,.08),transparent 30%);
-
-    animation:bgMove 12s linear infinite;
-    z-index:-1;
-
-}
-
-@keyframes bgMove{
-
-0%{transform:translateY(0);}
-50%{transform:translateY(-30px);}
-100%{transform:translateY(0);}
-
-}
-
-/* ===========================
-   HEADER
-=========================== */
-
-header{
-
-    position:fixed;
-    top:0;
-    left:0;
-
-    width:100%;
-
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-
-    padding:20px 8%;
-
-    background:rgba(7,20,38,.75);
-    backdrop-filter:blur(18px);
-
-    border-bottom:1px solid rgba
-rgba
-/* ===========================
-   BUTTONS
-=========================== */
-
-.btn{
-    display:inline-flex;
-    align-items:center;
-    gap:10px;
-    padding:14px 28px;
-    margin-top:20px;
-    margin-right:15px;
-    border-radius:50px;
-    background:linear-gradient(135deg,#00d9ff,#2563eb);
-    color:#fff;
-    text-decoration:none;
-    font-weight:600;
-    transition:.4s;
-    box-shadow:0 10px 30px rgba(0,217,255,.35);
-}
-
-.btn:hover{
-    transform:translateY(-5px) scale(1.05);
-    box-shadow:0 15px 40px rgba(0,217,255,.55);
-}
-
-.btn.secondary{
-    background:transparent;
-    border:2px solid #00d9ff;
-}
-
-/* ===========================
-   SOCIAL ICONS
-=========================== */
-
-.social-icons{
-    display:flex;
-    gap:18px;
-    margin:30px 0;
-}
-
-.social-icons a{
-    width:55px;
-    height:55px;
-    border-radius:50%;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    background:rgba(255,255,255,.08);
-    border:1px solid rgba(255,255,255,.15);
-    color:#00d9ff;
-    font-size:22px;
-    transition:.4s;
-}
-
-.social-icons a:hover{
-    background:#00d9ff;
-    color:#071426;
-    transform:translateY(-8px) rotate(360deg);
-}
-
-/* ===========================
-   PROFILE CARD
-=========================== */
-
-.home-image{
-    flex
-    
-     <p class="footer-text">
-    Thank you for visiting my portfolio. I'm always eager to learn, build innovative solutions, and collaborate on exciting opportunities. Let's create something amazing together.
-</p>       
+---
+---
