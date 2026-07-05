@@ -1,11 +1,18 @@
-# 👋 Hi, I'm Lakshmidevi Guvva
-
-## 🚀 Aspiring Java Full Stack Developer | CSE Student
-
-Passionate Computer Science Engineering student focused on building modern, responsive, and user-friendly web applications.
-I enjoy learning new technologies and improving my programming skills every day.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=500&color=0A1F44&center=true&vCenter=true&width=700&height=80&lines=LAKSHMIDEVI+GUVVA;Aspiring+Java+Full+Stack+Developer;CSE+Student+%7C+Future+Engineer" />
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Name-LAKSHMIDEVI%20GUVVA-0A1F44?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:00D9FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=35&fontColor=ffffff" />
+</p>
 
 ## 🌟 Quick Highlights
 
@@ -24,7 +31,7 @@ I enjoy learning new technologies and improving my programming skills every day.
 ## 💙 Welcome to my GitHub Profile
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Navy%20Blue-0A1F44?style=for-the-badge&logo=github" />
+  
   <img src="https://img.shields.io/badge/Focus-Java%20Full%20Stack-00D9FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Learning-2563EB?style=for-the-badge" />
 </p>
