@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="./header.svg" alt="Header" />
+</div>
+
+<h1 align="center">Hi 👋, I'm Lakshmidevi Guvva</h1>
+
+<p align="center">
+  Java Full Stack Developer | Learner | Builder
+</p>
 <h2 align="center">💙 About Me</h2>
 
 <p align="center">
