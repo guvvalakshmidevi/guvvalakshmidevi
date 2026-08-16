@@ -10,11 +10,11 @@
         stroke="#1683FF"
         stroke-width="2"/>
 
-  <!-- Everything on the right falls together -->
-  <g>
+  <!-- Center Content -->
+  <g transform="translate(0,0)">
 
     <!-- Name -->
-    <text x="620" y="135"
+    <text x="500" y="135"
           text-anchor="middle"
           font-family="Arial, sans-serif"
           font-size="52"
@@ -24,7 +24,7 @@
     </text>
 
     <!-- Developer Title -->
-    <text x="620" y="190"
+    <text x="500" y="190"
           text-anchor="middle"
           font-family="Arial, sans-serif"
           font-size="29"
@@ -34,7 +34,7 @@
     </text>
 
     <!-- Short tagline -->
-    <text x="620" y="235"
+    <text x="500" y="235"
           text-anchor="middle"
           font-family="Arial, sans-serif"
           font-size="18"
@@ -42,7 +42,7 @@
       Code • Learn • Build • Grow
     </text>
 
-    <!-- One complete falling animation -->
+    <!-- Falling animation -->
     <animateTransform
       attributeName="transform"
       type="translate"
@@ -53,7 +53,6 @@
       fill="freeze"
       calcMode="spline"
       keySplines="0.20 0.80 0.20 1"/>
-
   </g>
 
   <!-- Decorative Java symbol -->
