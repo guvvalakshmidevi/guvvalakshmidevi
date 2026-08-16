@@ -1,6 +1,17 @@
 <div align="center">
   <img src="./header.svg" alt="Animated Header" width="100%" />
 </div>
+
+<div align="center">
+
+# Hi, I'm Lakshmidevi Guvva 👋
+
+## Aspiring Java Full Stack Developer
+
+</div>
+
+---
+
 ## About Me
 
 I am a B.Tech CSE student passionate about coding, learning new technologies, and building real-world projects. I am focused on becoming a strong Java Full Stack Developer.
