@@ -1,34 +1,33 @@
 <div align="center">
   <img src="./header.svg" alt="Animated Header" width="100%" />
 </div>
-
 <div align="center">
-
-# Hi, I'm Lakshmidevi Guvva 👋
-
-## Aspiring Java Full Stack Developer
-
-</div>
-
----
 
 ## About Me
 
 I am a B.Tech CSE student passionate about coding, learning new technologies, and building real-world projects. I am focused on becoming a strong Java Full Stack Developer.
 
-## Java Skills
+</div>
 
-<p align="center">
+<div align="center">
+
+## Java
+
+<p>
   <img src="https://skillicons.dev/icons?i=java" width="60">
 </p>
 
-<p align="center">
+<p>
   <b>Core Java</b> • <b>OOP</b> • <b>Collections</b> • <b>Exception Handling</b> • <b>JDBC</b>
 </p>
 
-## Full Stack Journey
+</div>
 
-<p align="center">
+<div align="center">
+
+## Skills
+
+<p>
   <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-071A33?style=for-the-badge&logo=html5&logoColor=38BDF8">
   <br><br>
   <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-071A33?style=for-the-badge&logo=springboot&logoColor=6DB33F">
@@ -36,13 +35,27 @@ I am a B.Tech CSE student passionate about coding, learning new technologies, an
   <img src="https://img.shields.io/badge/Database-MySQL-071A33?style=for-the-badge&logo=mysql&logoColor=38BDF8">
 </p>
 
-<p align="center">
+<p>
   🧠 <b>DSA</b> &nbsp; • &nbsp; ☕ <b>Java</b> &nbsp; • &nbsp; 🌱 <b>Spring Boot</b> &nbsp; • &nbsp; 🗄️ <b>SQL</b>
 </p>
 
+</div>
+
+<div align="center">
+
+## Full Stack Journey
+
+<p>
+  Learning frontend basics, strengthening Java, exploring Spring Boot, and practicing database concepts to become a full stack developer.
+</p>
+
+</div>
+
+<div align="center">
+
 ## Featured Projects
 
-<table align="center">
+<table>
 <tr>
 <td width="50%" align="center">
 
@@ -69,16 +82,13 @@ An AI-powered learning project designed to help users **scan, learn, and improve
 </tr>
 </table>
 
-## GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guvvalakshmidevi&show_icons=true&hide_border=true&bg_color=071A33&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvvalakshmidevi&layout=compact&hide_border=true&bg_color=071A33&title_color=38BDF8&text_color=FFFFFF" height="170">
-</p>
+<div align="center">
 
 ## Let's Connect
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/lakshmidevi-guvva-476288342">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -91,7 +101,8 @@ An AI-powered learning project designed to help users **scan, learn, and improve
     <img src="https://img.shields.io/badge/GitHub-071A33?style=for-the-badge&logo=github&logoColor=FFFFFF">
   </a>
 </p>
-
-<p align="center">
-  <i>✨ Learning • Building • Growing ✨</i>
-</p>
+</div>
+<div align="center">
+  <h3>Thanks for Visiting My Profile 🙏</h3>
+  <p>✨ Learning • Building • Growing ✨</p>
+</div>
