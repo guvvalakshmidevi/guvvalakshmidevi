@@ -1,83 +1,36 @@
-<svg width="1000" height="330" viewBox="0 0 1000 330"
-     xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <style>
+    .bg { fill: #000080; }
+    .title {
+      fill: #ffffff;
+      font-size: 54px;
+      font-family: Arial, sans-serif;
+      font-weight: bold;
+      opacity: 0;
+      animation: fadeIn 3s infinite;
+    }
+    .sub {
+      fill: #dbe9ff;
+      font-size: 28px;
+      font-family: Arial, sans-serif;
+      opacity: 0;
+      animation: fadeIn2 3s infinite;
+    }
+    @keyframes fadeIn {
+      0% { opacity: 0; transform: translateY(20px); }
+      20% { opacity: 1; transform: translateY(0); }
+      70% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    @keyframes fadeIn2 {
+      0% { opacity: 0; transform: translateY(20px); }
+      35% { opacity: 1; transform: translateY(0); }
+      80% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+  </style>
 
-  <!-- Navy Background -->
-  <rect width="1000" height="330" rx="24" fill="#06152B"/>
-
-  <!-- Blue Border -->
-  <rect x="8" y="8" width="984" height="314"
-        rx="22" fill="none"
-        stroke="#1683FF"
-        stroke-width="2"/>
-
-  <!-- Profile Photo -->
-  <g>
-    <circle cx="155" cy="165" r="105"
-            fill="#0B2344"
-            stroke="#1683FF"
-            stroke-width="4"/>
-
-    <image
-      href="./profile.jpg"
-      x="65"
-      y="75"
-      width="180"
-      height="180"
-      preserveAspectRatio="xMidYMid slice"
-      clip-path="circle(90px at 90px 90px)"/>
-  </g>
-
-  <!-- Everything on the right falls together -->
-  <g>
-
-    <!-- Name -->
-    <text x="620" y="135"
-          text-anchor="middle"
-          font-family="Arial, sans-serif"
-          font-size="52"
-          font-weight="bold"
-          fill="#FFFFFF">
-      LAKSHMIDEVI GUVVA
-    </text>
-
-    <!-- Developer Title -->
-    <text x="620" y="190"
-          text-anchor="middle"
-          font-family="Arial, sans-serif"
-          font-size="29"
-          font-weight="bold"
-          fill="#38BDF8">
-      JAVA FULL STACK DEVELOPER
-    </text>
-
-    <!-- Short tagline -->
-    <text x="620" y="235"
-          text-anchor="middle"
-          font-family="Arial, sans-serif"
-          font-size="18"
-          fill="#B8D9FF">
-      Code • Learn • Build • Grow
-    </text>
-
-    <!-- One complete falling animation -->
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      from="0 -180"
-      to="0 0"
-      dur="1.4s"
-      begin="0s"
-      fill="freeze"
-      calcMode="spline"
-      keySplines="0.20 0.80 0.20 1"/>
-
-  </g>
-
-  <!-- Decorative Java symbol -->
-  <text x="930" y="290"
-        text-anchor="middle"
-        font-family="Arial"
-        font-size="28"
-        fill="#1683FF">☕</text>
-
+  <rect class="bg" width="1200" height="320" />
+  <text x="80" y="120" class="title">Java Full Stack Developer</text>
+  <text x="80" y="180" class="sub">Learning Java • Spring Boot • SQL</text>
 </svg>
